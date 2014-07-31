@@ -3,4 +3,4 @@ hello-world
 
 My first git project!
 
-It would be Android NDK softwear.
+It would be Android NDK software.
